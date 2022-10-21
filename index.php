@@ -14,7 +14,7 @@ include_once 'dashboard.php';
     <meta charset="UTF-8">
 
     <!-- Criando o ícone da página que figura na parte do denereçamento-->
-    <link rel="shortcut icon" href="images/favicon.ico" image="image/x-ico">
+    <link rel="shortcut icon" href="favicon.ico" image="image/x-ico">
     <title>Formulario Login-PDO</title>
 </head>
 <body>
