@@ -83,5 +83,5 @@ include_once 'dashboard.php';
     </form>   
 </body>
 <hr>
-<h4> Elaborado por: Iraê César Brandão - LuckWay Informática
+    <h4> Elaborado por: Iraê César Brandão - LuckWay Informática</h4>
 </html>
